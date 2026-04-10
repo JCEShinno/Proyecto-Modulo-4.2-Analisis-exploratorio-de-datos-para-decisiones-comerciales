@@ -21,7 +21,7 @@ Aplicar técnicas de análisis exploratorio de datos sobre un conjunto de variab
 - `data/processed/`: archivos procesados o consolidados
 - `notebooks/`: notebook principal del proyecto
 - `notebooks/outputs/`: gráficos exportados en PNG y PDF
-- `docs/`: informe técnico final
+- `docs/`: carpeta reservada para documentación complementaria del proyecto
 - `README.md`: descripción general del proyecto
 
 ## Desarrollo del proyecto
@@ -44,18 +44,18 @@ El notebook principal se organiza en seis etapas:
 
 ## Archivos principales
 - `notebooks/proyecto_modulo_4_eda.ipynb`
-- `outputs/pairplot_variables_comerciales.png`
-- `outputs/violinplot_monto_segmento.png`
-- `outputs/jointplot_visitas_monto.png`
-- `outputs/heatmap_correlaciones.png`
-- `outputs/facetgrid_compras_monto.png`
-- `outputs/boxplot_monto_canal.png`
-- `outputs/dashboard_ejecutivo_matplotlib.png`
-- `outputs/dashboard_ejecutivo_matplotlib.pdf`
-- `outputs/scatter_anotado_visitas_monto.png`
-- `outputs/scatter_anotado_visitas_monto.pdf`
-- `outputs/distribuciones_finales_matplotlib.png`
-- `outputs/distribuciones_finales_matplotlib.pdf`
+- `notebooks/outputs/pairplot_variables_comerciales.png`
+- `notebooks/outputs/violinplot_monto_segmento.png`
+- `notebooks/outputs/jointplot_visitas_monto.png`
+- `notebooks/outputs/heatmap_correlaciones.png`
+- `notebooks/outputs/facetgrid_compras_monto.png`
+- `notebooks/outputs/boxplot_monto_canal.png`
+- `notebooks/outputs/dashboard_ejecutivo_matplotlib.png`
+- `notebooks/outputs/dashboard_ejecutivo_matplotlib.pdf`
+- `notebooks/outputs/scatter_anotado_visitas_monto.png`
+- `notebooks/outputs/scatter_anotado_visitas_monto.pdf`
+- `notebooks/outputs/distribuciones_finales_matplotlib.png`
+- `notebooks/outputs/distribuciones_finales_matplotlib.pdf`
 
 ## Resultados
 El proyecto permitió construir un análisis exploratorio integral con foco técnico y comercial, transformando datos en evidencia útil para comprender mejor el comportamiento de los clientes y apoyar decisiones de segmentación, retención, fidelización y captación.
