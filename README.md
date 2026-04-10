@@ -17,8 +17,10 @@ Aplicar técnicas de análisis exploratorio de datos sobre un conjunto de variab
 
 ## Estructura del proyecto
 - `data/raw/`: dataset base utilizado en el análisis
+- `data/interim/`: archivos intermedios del proceso analítico
+- `data/processed/`: archivos procesados o consolidados
 - `notebooks/`: notebook principal del proyecto
-- `outputs/`: gráficos exportados en PNG y PDF
+- `notebooks/outputs/`: gráficos exportados en PNG y PDF
 - `docs/`: informe técnico final
 - `README.md`: descripción general del proyecto
 
